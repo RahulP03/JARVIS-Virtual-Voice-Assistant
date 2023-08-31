@@ -1,12 +1,6 @@
 # JARVIS-Virtual-Voice-Assistant
  The Virtual Voice Assistant can help to reduce human effort and consumes time while performing any task, removed the concept of typing completely and behave as another individual to whom we are talking and asking to perform task.
 
-# JARVIS (Just a Rather Very Intelligent System)
-
-#### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
-#### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
-
-
 
 ## Features
 
